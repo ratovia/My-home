@@ -18,12 +18,10 @@ html,body{
   width: 50%;
   height: 100%;
   float:left;
-  background-color: red;
 }
 
 #main {
   width:50%;
   height: 100%;
   float:right;
-  background-color: blue;
 }
