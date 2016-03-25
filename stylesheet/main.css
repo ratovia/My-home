@@ -55,6 +55,9 @@ img {
 }
 
 #profile-text {
+  border-radius:10px;
+  font-size:16px;
+  line-height: 150%;
   background-color:green;
   width:50%;
   float:left;
